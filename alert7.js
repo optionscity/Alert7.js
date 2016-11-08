@@ -88,10 +88,10 @@
             "}" +
             "" +
             "#Alert7 .alert7-container {" +
-                "max-width: 240px;" +
-                "width: 80%;" +
+                "max-width: 260px;" +
+                "width: 85%;" +
                 "box-sizing: border-box;" +
-                "background-color: rgba(255, 255, 255, 0.9);" +
+                "background-color: rgba(255, 255, 255, 255);" +
                 "border-radius: 18px;" +
             "}" +
             "" +
@@ -99,18 +99,18 @@
             "#Alert7 .alert7-message {" +
                 "padding-left: 20px;" +
                 "padding-right: 20px;" +
-                "line-height:1.3em;" +
+                "line-height: 1em;" +
             "}" +
             "" +
             "#Alert7 .alert7-title {" +
-                "padding-top: 20px;" +
+                "padding-top: 12px;" +
                 "font-size: 1.1em;" +
                 "font-weight: bolder;" +
                 "line-height: 2em;" +
             "}" +
             "" +
             "#Alert7 .alert7-message {" +
-                "padding-bottom: 14px;" +
+                "padding-bottom: 18px;" +
                 "font-size: 0.8em;" +
             "}" +
             "" +
